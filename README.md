@@ -8,8 +8,8 @@ I believe great code is simple, and simple code comes from understanding — so 
 - Reverse Engineering
 - Full-Stack Development
 - Python · C++ · Java
-- Spring Boot · Redis · Vue
-- Linux / Docker / Automation
+- Spring Boot · Redis · MySQL · Vue
+- Selenium · LaTeX · Linux / Docker / Automation
 
 ## Tech Stack
 
@@ -18,7 +18,10 @@ I believe great code is simple, and simple code comes from understanding — so 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 Let me know any questions or ideas — open an [issue](https://github.com/yunshujing/yunshujing/issues) or find me on my blog!
