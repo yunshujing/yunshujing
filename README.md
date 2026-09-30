@@ -7,7 +7,8 @@ I believe great code is simple, and simple code comes from understanding — so 
 - Algorithms & Data Structures
 - Reverse Engineering
 - Full-Stack Development
-- Python · C++ · Java · Vue
+- Python · C++ · Java
+- Spring Boot · Redis · Vue
 - Linux / Docker / Automation
 
 ## Tech Stack
@@ -15,6 +16,8 @@ I believe great code is simple, and simple code comes from understanding — so 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
